@@ -4,6 +4,7 @@ Returns the similarity of two sentences using web api from host.
 
 dockerでnginx + gunicorn + flaskを実装しています。
 hostからweb apiを呼び出して、2文の類似度を返却します。
+![docker_get_api](https://user-images.githubusercontent.com/53368783/185090118-dc0b3f71-a38e-4f19-afe3-d2cc65815aa4.gif)
 
 ## Reference
 Refered to the following articles.
